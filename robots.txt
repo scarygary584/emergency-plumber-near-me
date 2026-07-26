@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.emergency-plumber-near-me.com/sitemap.xml
