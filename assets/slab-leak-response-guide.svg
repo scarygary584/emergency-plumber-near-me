@@ -1,0 +1,115 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1120 300"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Possible slab leak response guide</title>
+  <desc id="desc">
+    Four steps: notice warning signs, avoid electrical and standing-water
+    hazards, limit water damage when safe, and request professional leak
+    detection.
+  </desc>
+  <rect width="1120" height="300" rx="24" fill="#eaf6ff" />
+  <path
+    d="M140 80c-26 35-42 56-42 82a42 42 0 0 0 84 0c0-26-16-47-42-82z"
+    fill="#0b83c9"
+  />
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="140" y="236" font-size="22" font-weight="700" fill="#0b2f57">
+      Notice the signs
+    </text>
+    <text x="140" y="262" font-size="16" fill="#34495b">
+      Warmth, moisture, meter movement
+    </text>
+  </g>
+  <path
+    d="M245 150h70"
+    stroke="#f59b23"
+    stroke-width="8"
+    stroke-linecap="round"
+  />
+  <path
+    d="m301 134 18 16-18 16"
+    fill="none"
+    stroke="#f59b23"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="410" cy="145" r="52" fill="#e64032" />
+  <path
+    d="M410 112v48M410 181v2"
+    stroke="#fff"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="410" y="236" font-size="22" font-weight="700" fill="#0b2f57">
+      Avoid hazards
+    </text>
+    <text x="410" y="262" font-size="16" fill="#34495b">
+      Stay clear of water near electricity
+    </text>
+  </g>
+  <path
+    d="M515 150h70"
+    stroke="#f59b23"
+    stroke-width="8"
+    stroke-linecap="round"
+  />
+  <path
+    d="m571 134 18 16-18 16"
+    fill="none"
+    stroke="#f59b23"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="680" cy="145" r="52" fill="#0b6fb8" />
+  <path
+    d="M655 145h50M680 120v50"
+    stroke="#fff"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="680" y="236" font-size="22" font-weight="700" fill="#0b2f57">
+      Limit damage
+    </text>
+    <text x="680" y="262" font-size="16" fill="#34495b">
+      Use an accessible shutoff when safe
+    </text>
+  </g>
+  <path
+    d="M785 150h70"
+    stroke="#f59b23"
+    stroke-width="8"
+    stroke-linecap="round"
+  />
+  <path
+    d="m841 134 18 16-18 16"
+    fill="none"
+    stroke="#f59b23"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="950" cy="145" r="52" fill="#0b2f57" />
+  <path
+    d="M925 147l17 17 34-39"
+    fill="none"
+    stroke="#fff"
+    stroke-width="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="950" y="236" font-size="22" font-weight="700" fill="#0b2f57">
+      Request detection
+    </text>
+    <text x="950" y="262" font-size="16" fill="#34495b">
+      Let a provider evaluate repair options
+    </text>
+  </g>
+</svg>
