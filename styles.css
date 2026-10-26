@@ -525,3 +525,11 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+/* Phone buttons only. */
+a.phone-top[href^="tel:"],
+a.button[href^="tel:"] {
+  background-color: #15803d;
+  border-color: #15803d;
+  color: #fff;
+}
